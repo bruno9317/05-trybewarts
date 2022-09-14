@@ -4,20 +4,20 @@
 }
 
 .main-container {
-    display: flex;
-    border: 2px solid red;
+  display: flex;
+  border: 2px solid red;
 
 }
 
 #evaluation-form {
-    border: 2px solid black;
-    display: flex;
-    width: 675px;
-    flex-direction: column;
+  border: 2px solid black;
+  display: flex;
+  width: 675px;
+  flex-direction: column;
 }
 
 #trybewarts-forms-logo {
-    height: 500px;
+  height: 500px;
 }
 
 .trybewarts-login {
