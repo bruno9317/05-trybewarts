@@ -19,3 +19,7 @@
 #trybewarts-forms-logo {
     height: 500px;
 }
+
+.trybewarts-login {
+  display: flex;
+}
