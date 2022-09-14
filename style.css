@@ -2,3 +2,16 @@
   display: flex;
   background-color: rgb(50, 167, 145);
 }
+
+.main-container {
+    display: flex;
+    border: 2px solid red;
+
+}
+
+#evaluation-form{
+    border: 2px solid black;
+    display: flex;
+    width: 675px;
+    flex-direction: column;
+}
