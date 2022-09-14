@@ -4,9 +4,8 @@
 }
 
 .main-container {
-    display: flex;
-    border: 2px solid red;
-
+  display: flex;
+  border: 2px solid red;
 }
 
 #evaluation-form {
