@@ -38,3 +38,8 @@ h1 {
 .trybewarts-login {
   display: flex;
 }
+
+#form-data {
+  width: 675px;
+  display: none;
+}
