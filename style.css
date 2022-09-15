@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
 }
@@ -6,7 +7,7 @@
   display: flex;
   background-color: rgb(50, 167, 145);
   justify-content: space-between;
-  align-items:center;
+  align-items: center;
 }
 
 .trybewarts-header-logo {
@@ -36,13 +37,4 @@ h1 {
 
 .trybewarts-login {
   display: flex;
-<<<<<<< HEAD
 }
-=======
-}
-
-#form-data {
-  width: 675px;
-  display: none;
-}
->>>>>>> 778ec545e3d40c82295de5f1ec4cac9b81ef0dfb
