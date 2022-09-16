@@ -1,4 +1,3 @@
-
 * {
   margin: 0;
 }
@@ -31,6 +30,7 @@ h1 {
   width: 675px;
   flex-direction: column;
 }
+
 #evaluation-form div {
   margin-top: 30px;
 }
@@ -47,23 +47,11 @@ h1 {
   width: 675px;
   display: none;
 }
+
 #familia {
   display: flex;
   flex-direction: column;
   width: 30%;
-  /* margin-left: 50px; */
-  /* margin-top: 5px; */
-}
-
-#conteudos {
-  /* display: flex; */
-  /* flex-direction: column; */
-  width: 50%;
-}
-#conteudos div {
-  /* display: flex; */
-  /* justify-content: space-between; */
-  /* width: 70%; */
 }
 
 #evaluation-form button {
