@@ -22,6 +22,7 @@ h1 {
 .main-container {
   display: flex;
   border: 2px solid red;
+  justify-content: space-around;
 }
 
 #evaluation-form {
@@ -29,6 +30,9 @@ h1 {
   display: flex;
   width: 675px;
   flex-direction: column;
+}
+#evaluation-form div {
+  margin-top: 30px;
 }
 
 #trybewarts-forms-logo {
@@ -42,4 +46,33 @@ h1 {
 #form-data {
   width: 675px;
   display: none;
+}
+#familia {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  /* margin-left: 50px; */
+  /* margin-top: 5px; */
+}
+
+#conteudos {
+  /* display: flex; */
+  /* flex-direction: column; */
+  width: 50%;
+}
+#conteudos div {
+  /* display: flex; */
+  /* justify-content: space-between; */
+  /* width: 70%; */
+}
+
+#evaluation-form button {
+  width: 100%;
+  background-color: blueviolet;
+  color: white;
+}
+
+section {
+  display: flex;
+  justify-content: space-between;
 }
